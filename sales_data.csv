@@ -1,0 +1,12 @@
+OrderID,Customer,Category,Product,Price,Quantity,OrderDate,City
+1001,Ali,Electronics,Laptop,1200.0,1,2025-01-12,Toronto
+1002,Sara,Electronics,Phone,800.0,2,2025-01-15,Montreal
+1003,John,Furniture,Chair,150.0,4,2025-01-16,Vancouver
+1004,Aisha,Electronics,,900.0,1,2025-01-18,Toronto
+1005,Mike,Furniture,Table,,1,2025-01-20,Calgary
+1006,Emily,Clothing,Jacket,200.0,2,2025-01-21,
+1007,Ali,electronics,Tablet,450.0,1,2025-01-22,Toronto
+1008,Sara,Clothing,Shoes,120.0,3,2025-01-25,Montreal
+1008,Sara,Clothing,Shoes,120.0,3,2025-01-25,Montreal
+1009,John,Furniture,Sofa,950.0,1,2025-01-28,Vancouver
+1010,Aisha,Clothing,T-Shirt,35.0,5,2025-01-29,Toronto
